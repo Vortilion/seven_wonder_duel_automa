@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1678867883391,
-  "index": "https://vortilion.github.io/seven_wonders_duel_automa/index.html",
+  "timestamp": 1678868284783,
+  "index": "https://vortilion.github.io/sevenwondersduel/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://vortilion.github.io/seven_wonders_duel_automa/favicon.ico",
-        "https://vortilion.github.io/seven_wonders_duel_automa/index.html",
-        "https://vortilion.github.io/seven_wonders_duel_automa/main.fd7f381af6b4f21f.js",
-        "https://vortilion.github.io/seven_wonders_duel_automa/manifest.webmanifest",
-        "https://vortilion.github.io/seven_wonders_duel_automa/polyfills.ec413d8ebb2b9069.js",
-        "https://vortilion.github.io/seven_wonders_duel_automa/runtime.92f9a47c4961b290.js",
-        "https://vortilion.github.io/seven_wonders_duel_automa/styles.ef46db3751d8e999.css"
+        "https://vortilion.github.io/sevenwondersduel/favicon.ico",
+        "https://vortilion.github.io/sevenwondersduel/index.html",
+        "https://vortilion.github.io/sevenwondersduel/main.fd7f381af6b4f21f.js",
+        "https://vortilion.github.io/sevenwondersduel/manifest.webmanifest",
+        "https://vortilion.github.io/sevenwondersduel/polyfills.ec413d8ebb2b9069.js",
+        "https://vortilion.github.io/sevenwondersduel/runtime.92f9a47c4961b290.js",
+        "https://vortilion.github.io/sevenwondersduel/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/i18n/de.json",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/i18n/en.json",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-128x128.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-144x144.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-152x152.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-192x192.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-384x384.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-512x512.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-72x72.png",
-        "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-96x96.png"
+        "https://vortilion.github.io/sevenwondersduel/assets/i18n/de.json",
+        "https://vortilion.github.io/sevenwondersduel/assets/i18n/en.json",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-128x128.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-144x144.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-152x152.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-192x192.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-384x384.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-512x512.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-72x72.png",
+        "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/i18n/de.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/i18n/en.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://vortilion.github.io/seven_wonders_duel_automa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://vortilion.github.io/seven_wonders_duel_automa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://vortilion.github.io/seven_wonders_duel_automa/index.html": "c0037747a3f164e0b30e9c1ad32185fb8a6de213",
-    "https://vortilion.github.io/seven_wonders_duel_automa/main.fd7f381af6b4f21f.js": "dabb638400ccfd941d783cab4c0f1355afd89f89",
-    "https://vortilion.github.io/seven_wonders_duel_automa/manifest.webmanifest": "72c5111cccec0dc478db19f8de8dfc0b4aff6480",
-    "https://vortilion.github.io/seven_wonders_duel_automa/polyfills.ec413d8ebb2b9069.js": "97c1e1310cbbbfd4aaea1caefa37d7c92c1fa188",
-    "https://vortilion.github.io/seven_wonders_duel_automa/runtime.92f9a47c4961b290.js": "ecdcbdcb6250496574cd7ab2cfd1a0dcdf61afc0",
-    "https://vortilion.github.io/seven_wonders_duel_automa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://vortilion.github.io/sevenwondersduel/assets/i18n/de.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "https://vortilion.github.io/sevenwondersduel/assets/i18n/en.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://vortilion.github.io/sevenwondersduel/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://vortilion.github.io/sevenwondersduel/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://vortilion.github.io/sevenwondersduel/index.html": "0563437faeb89545c5e8c6af9018c964341934a3",
+    "https://vortilion.github.io/sevenwondersduel/main.fd7f381af6b4f21f.js": "dabb638400ccfd941d783cab4c0f1355afd89f89",
+    "https://vortilion.github.io/sevenwondersduel/manifest.webmanifest": "72c5111cccec0dc478db19f8de8dfc0b4aff6480",
+    "https://vortilion.github.io/sevenwondersduel/polyfills.ec413d8ebb2b9069.js": "97c1e1310cbbbfd4aaea1caefa37d7c92c1fa188",
+    "https://vortilion.github.io/sevenwondersduel/runtime.92f9a47c4961b290.js": "ecdcbdcb6250496574cd7ab2cfd1a0dcdf61afc0",
+    "https://vortilion.github.io/sevenwondersduel/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
